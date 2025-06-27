@@ -9,7 +9,8 @@ I have learnt quite number of things - from **Ms Excel to SQL** and now I am lea
 
 ### Data Source
 
-### Tools used
+<details>
+<summary><strong>Tools used </strong></summary>
 - Ms Excel for cleaning [Download Here](https://www.microsoft.com)
   - For Data Collection
   - For Data Cleaning
@@ -17,8 +18,8 @@ I have learnt quite number of things - from **Ms Excel to SQL** and now I am lea
       2. Making sense
 - SQL Server for querying amd analysis
 - PowerBI for creating report
-- Ms PowerPoint for Presentation
-
+- Ms PowerPoint for Presentation 
+</details>
 
 Inserting SQL Code
 ``` SQL
@@ -29,3 +30,8 @@ WHERE A>15
 Inserting Images
 
 ### Analysis
+
+![bcpemapMu](https://github.com/user-attachments/assets/62e243c6-3750-4890-830d-f2d6da1ca72a)
+
+
+
