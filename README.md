@@ -18,3 +18,12 @@ I have learnt quite number of things - from **Ms Excel to SQL** and now I am lea
 - SQL Server for querying amd analysis
 - PowerBI for creating report
 - Ms PowerPoint for Presentation
+
+
+Inserting SQL Code
+``` SQL
+SELECT A,B,C
+WHERE A>15
+```
+
+Inserting Images
