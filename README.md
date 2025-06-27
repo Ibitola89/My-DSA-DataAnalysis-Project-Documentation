@@ -10,3 +10,7 @@ I have learnt quite number of things - from **Ms Excel to SQL** and now I am lea
 ### Data Source
 
 ### Tools used
+- Ms Excel for cleaning
+- SQL Server for querying amd analysis
+- PowerBI for creating report
+- Ms PowerPoint for Presentation
