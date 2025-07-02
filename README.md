@@ -3,14 +3,15 @@ My first portfolio buiding while taking data analysis class with the incubator h
 
 I have learnt quite number of things - from **Ms Excel to SQL** and now I am learning to *create my portfolio* 
 
-## Project Topic: E-commerce Analysis
+## Project Topic: Amazon Product Review Analysis
 
 <details>
 <summary>
   
 ### Project Overview
 </summary>
--------------
+
+To analyse product and customer review data, so as to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
 </details>
 
@@ -19,7 +20,7 @@ I have learnt quite number of things - from **Ms Excel to SQL** and now I am lea
 ### Data Source
 </summary>
 
-------------------------------
+The dataset contains information scraped from Amazon product pages including product details and customer engagements.
 
 </details>
 
@@ -30,13 +31,8 @@ I have learnt quite number of things - from **Ms Excel to SQL** and now I am lea
 </summary>
 
  - Ms Excel for cleaning [Download Here](https://www.microsoft.com)
-    - For Data Collection  
-    - For Data Cleaning  
-        1. This is me testing nested bullet pointing
-        2. Making sense
-- SQL Server for querying amd analysis
-- PowerBI for creating report
-- Ms PowerPoint for Presentation
+ - Pivot table to emphasize the needed columns in the dataset
+ - Pivot charts to visualize my pivot outputs
   
 </details>
 
