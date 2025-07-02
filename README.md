@@ -8,48 +8,43 @@ I have learnt quite number of things - from **Ms Excel to SQL** and now I am lea
 <details>
 <summary>
   
-### Project Overview
+### Project Objective
 </summary>
 
-To analyse product and customer review data, so as to generate insights that can guide product improvement, marketing strategies, and customer engagement.
+To analyze Amazon product and customer review data in order to uncover actionable insights that inform product improvement, marketing strategies, and customer engagement initiatives.
 
 </details>
 
 <details> <summary>
   
-### Data Source
+### Data Source and Description
 </summary>
 
-The dataset contains information scraped from Amazon product pages including product details and customer engagements.
+The dataset contains information scraped from Amazon product pages. It consists of 1,465 Amazon products with 16 fields, including:
+- Product Details: Name, Category, Price, Discount, Ratings
+- Customer Engagement: Number of Reviews, Review Titles & Content (aggregated)
+
+Each row represents a unique product entry, with customer reviews embedded as comma-separated values.
 
 </details>
 
-<details>
-  <summary>
+<details> <summary>
     
 ### Tools Used 
 </summary>
 
- - Ms Excel for cleaning [Download Here](https://www.microsoft.com)
- - Pivot table to emphasize the needed columns in the dataset
- - Pivot charts to visualize my pivot outputs
+ - Microsoft Excel: Data cleaning, transformation, and pivot analysis
+ - Excel Dashboard: Custom visuals and KPI cards created to showcase insights interactively
   
 </details>
 
-Inserting SQL Code
-``` SQL
-SELECT A,B,C
-WHERE A>15
-```
-
-Inserting Images
 
 <details> <summary>
   
 ### Analysis
 </summary>
 
-![bcpemapMu](https://github.com/user-attachments/assets/62e243c6-3750-4890-830d-f2d6da1ca72a)
+-----
 
 
 </details>
