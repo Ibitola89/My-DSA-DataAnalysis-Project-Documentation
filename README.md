@@ -71,6 +71,4 @@ Each row represents a unique product entry, with customer reviews embedded as co
 
 ![Amazon dashboard](https://github.com/user-attachments/assets/3ab933ac-1adc-40fa-a571-04d2333a38ee)
 
-
-
 </details>
